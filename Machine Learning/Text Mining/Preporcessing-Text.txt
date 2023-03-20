@@ -1,0 +1,39 @@
+Problem Statement:	Consider the FIFAWORLDCUP2018.txt file.
+
+Objective:	1. Write separate Python functions that accept a string, a number ‘n’, and returns the following:
+N m ost frequent nouns	(Ta ke  function  nam e  as “Ge tNMostFrequentNouns ”)
+N m ost frequent verbs (Ta ke  function  nam e  as “Ge tNMostFrequentVe rbs ”)
+N m ost frequent de lim iters (Ta ke  function  nam e  as “GetNMo stFrequentDe lim iters ”)
+N m ost frequent prepositions (Ta ke  function  nam e  as “Ge tNMostFrequentPrepositions ”)  Run  a ll the  functions on  the  file  “FIFAWo rld Cup2018.txt” and print the  resu lts .
+
+2. Write  a  Python  function that accepts a  string and prints the  first	sentence  in the  string a long with its syntax tree.  Ta ke function nam e as “Prin tSyn taxTre e”
+Run  th is function  on  the  file  “FIFAWo rld Cup2018.txt”
+
+
+
+Objective:	3. Write a Python function that accepts and returns a string using regular expressions:
+	Text from the string after rem oving a ll the punctuations (Ta ke function nam e as “Te xtAfte rRem ovingPunctuations ”)
+	Text from the string after rem oving a ll the num bers/ digits (Ta ke function nam e as “Te xtAfte rRem ovin gDigits ”)
+	All the words that	begin with the capital letter (Ta ke function nam e as “AllCa p ita lize d Words From Te xt”)
+All the  em a ils from  the  string (Ta ke  function nam e  as “AllEm a ils From Te xt”)  Run  a ll the  above  functions on  the  file  “FIFAWo rld Cup2018.txt” and print the  resu lts .
+
+Write Python functions that accept a string as an input and return the following chunks:
+	Phrases having proper nouns followed  by verbs (Ta ke  function  nam e  as “Chun kingVe r1”)
+	Ve rb phrases having verbs followed  by ad je ctives (Ta ke  function  nam e  as “Chun kingVe r2”)
+	Noun phrases having determ iners followed by nouns (Ta ke function nam e as “Chun kingVe r3”)
+	Ve rb phrases having verbs followed  by ad ve rbs (Ta ke  function  nam e  as “Chun kingVe r4”)
+	Phrases having delim ite r, ad je ctives, and nouns in  the  respective  order. (Ta ke  function  nam e  as “Chun kingVe r5”)
+	Noun phrases having nouns and ad je ctives, term inated with nouns. (Ta ke function nam e as “Chun kingVe r5”)  Run  a ll the  functions for the  first sentence  in  the  file  “FIFAWo rld Cup2018.txt” and print the  resu lts .
+
+
+Objective:	 Make a content -free grammar having the following rules:
+Noun phrases are followed by verb phrases
+Verb  phrase can have:  Ve rb and noun  phrases
+Ve rb, noun  phrases, and  preposition  phrases
+Noun phrases can have:
+De lim ite rs fo llo wed  by noun
+Preposition phrase has a preposition followed by a noun phrase
+The  delim ite rs, verbs, prepositions, and nouns for the  gram m ar shou ld  be  the  2 m ost frequent words of each type  from “FIFAWo rld Cup2018.txt”. Generate the CFG for “FIFAWo rld Cup2018.txt” file and save them in a file nam ed  “CFG.txt”
+
+Access: Click the La bs tab in the le ft side panel of the LMS. Copy or note the usernam e and password that are  generated. Click the La unch La b button. On the page that appears, enter the usernam e and password in the 
+respective  fie ld s and click Lo gin .
